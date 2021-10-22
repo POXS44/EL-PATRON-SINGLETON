@@ -2,7 +2,7 @@ package org.poxs44.Singleton;
 
 import java.util.ArrayList;
 
-public class DocumentacionEnBlanco extends Documentacion {
+public class DocumentacionEnBlanco {
 
     private static DocumentacionEnBlanco _instance = null;
 
