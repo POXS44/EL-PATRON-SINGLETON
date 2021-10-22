@@ -53,5 +53,5 @@ public class Comercial {
     {
         this.correo = email;
     }
-    
+
 }
